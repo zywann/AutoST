@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "groupsClassTest" >
+
+    <test name= "groupsTest">
+        <classes>
+            <class name = "com.course.testng.groups.GroupsClass1"></class>
+            <class name = "com.course.testng.groups.GroupsClass2"></class>
+            <class name = "com.course.testng.groups.GroupsClass3"></class>
+        </classes>
+    </test>
+
+    <test name = "stuGroupsTest">
+        <groups>
+            <run>
+                <include name = "stu"></include>
+            </run>
+        </groups>
+
+        <classes groups = "stu">
+            <class name = "com.course.testng.groups.GroupsClass1"></class>
+            <class name = "com.course.testng.groups.GroupsClass2"></class>
+            <class name = "com.course.testng.groups.GroupsClass3"></class>
+        </classes>
+    </test>
+
+
+</suite>
+
+
+
+
+
+

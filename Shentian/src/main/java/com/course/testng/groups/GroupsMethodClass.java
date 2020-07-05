@@ -11,7 +11,7 @@ import org.testng.annotations.AfterGroups;
 import org.testng.annotations.BeforeGroups;
 import org.testng.annotations.Test;
 
-public class GroupsClass {
+public class GroupsMethodClass {
 
     @Test(groups = "server")
     public void test1(){
