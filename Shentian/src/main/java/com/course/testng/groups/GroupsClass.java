@@ -3,7 +3,7 @@ package com.course.testng.groups;
 
 /*
 *  这是分组测试 - 注解
-*
+*  testng 7 以上版本，不展示组内容
 * */
 
 
@@ -48,5 +48,6 @@ public class GroupsClass {
     public void afterGroupsOnClient(){
         System.out.println("这是测试方法运行之后运行的客户端测试组2222");
     }
+
 
 }
