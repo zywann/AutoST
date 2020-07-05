@@ -1,5 +1,6 @@
 package com.course.testng.paramter;
 
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
@@ -10,7 +11,7 @@ public class XmlParamterTest {
      * @param name
      * @param age
      */
-
+    @DataProvider
     @Test
     @Parameters({"name","age"})
     public void xmlParamMtthod(String name,int age){
