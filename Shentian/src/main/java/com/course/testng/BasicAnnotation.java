@@ -2,6 +2,8 @@ package com.course.testng;
 
 import org.testng.annotations.*;
 
+import static java.lang.Thread.currentThread;
+
 /**
  * 基本注解
  */
@@ -20,6 +22,7 @@ public class BasicAnnotation {
 
     @Test
     public void testCase1(){
+        System.out.printf("Thread ID : %s%n", currentThread().getId());
         System.out.println("这是测试用例1");
     }
 

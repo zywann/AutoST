@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+<suite name="multiThread" parallel="classs" thread-count="3">
+    <!--
+    parallel ：线程级别
+        classs 级别：
+            不同的test tag下的用例可以在不同的线程下执行
+            相同的test tag下的用例只能在同一线程中去执行
+
+        tests 级别：
+            相同的class tag下的用例在同一个线程中执行
+            不同的class tag下的用例可以在不同的线程中执行
+
+        methods 级别：
+            所有的用例都可以在不同的线程下去执行
+
+    thread-count ：代表最大并发线程数
+
+    -->
+    <test name="thread">
+        <classes name="classs1">
+            <class name="com.course.testng.multiThread.multiThreadClass"/>
+        </classes>
+    </test>
+    <test name="thread1">
+        <classes name="classs2">
+            <class name="com.course.testng.multiThread.multiThreadClass"/>
+            <class name="com.course.testng.BasicAnnotation"/>
+        </classes>
+    </test>
+
+
+
+
+</suite>
+
+
+
+
+
