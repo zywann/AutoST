@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <suite name = "groupsClassTest" >
-
+    <!-- test需要命名，不然会报错 -->
+    <!-- classes class 标签表示执行哪些类 -->
     <test name= "groupsTest">
         <classes>
             <class name = "com.course.testng.groups.GroupsClass1"></class>
@@ -8,8 +9,11 @@
             <class name = "com.course.testng.groups.GroupsClass3"></class>
         </classes>
     </test>
-
+    <!-- test需要命名，不然会报错 -->
+    <!-- classes class 标签表示执行哪些类 -->
     <test name = "stuGroupsTest">
+        <!-- groups 表示需要进行类分组测试 -->
+        <!-- run 表示运行哪个组，include name 表示具体的组名(标识在类上边@TEST(groups ="stu")) -->
         <groups>
             <run>
                 <include name = "stu"></include>
