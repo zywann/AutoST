@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "xmlParameters">
+    <test name = "param">
+        <classes>
+            <!-- parameters 标签，需放在classes标签内 -->
+            <parameter name="name" value="张三" />
+            <parameter name="age" value="20" />
+
+            <class name = "com.course.testng.paramter.XmlParamterTest"/>
+        </classes>
+    </test>
+</suite>
+
+
+

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36423c4-47b6-408f-9126-672cb868e4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/DependsOnMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/XmlParamterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shentian/src/main/resources/xmlParametersTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Shentian/target/" />
@@ -22,28 +23,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="12" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="13" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="12" />
-          <entry key="XML" value="4" />
+          <entry key="JAVA" value="13" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="16" />
-          <entry key="java" value="1928" />
-          <entry key="xml" value="625" />
+          <entry key="dummy" value="19" />
+          <entry key="java" value="2085" />
+          <entry key="xml" value="872" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1928" />
-          <entry key="PLAIN_TEXT" value="16" />
-          <entry key="XML" value="625" />
+          <entry key="JAVA" value="2085" />
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="XML" value="872" />
         </counts>
       </usages-collector>
     </session>
@@ -68,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/DependsOnMethodTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
@@ -77,6 +78,29 @@
                 <element signature="e#232#233#0" expanded="true" />
                 <element signature="e#279#280#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/XmlParamterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Shentian/src/main/resources/xmlParametersTest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -131,6 +155,9 @@
         <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/ExpectedException.java" />
         <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/DependsTest.java" />
         <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/DependsOnMethodTest.java" />
+        <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/ParamterTest.java" />
+        <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/XmlParamterTest.java" />
+        <option value="$PROJECT_DIR$/Shentian/src/main/resources/xmlParametersTest.xml" />
       </list>
     </option>
   </component>
@@ -205,6 +232,16 @@
               <item name="Shentian" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testng" type="462c0819:PsiDirectoryNode" />
+              <item name="paramter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
+              <item name="Shentian" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -227,7 +264,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593942567405" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593943967965" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -246,10 +283,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DependsOnMethodTest.test2">
+  <component name="RunManager" selected="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml">
     <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Shentian" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Shentian/src/main/resources/groupsClassTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Shentian" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Shentian/src/main/resources/xmlParametersTest.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -309,36 +356,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GroupsMethodClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Shentian" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testng.groups.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng.groups" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.groups.GroupsMethodClass" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="TestNG.GroupsMethodClass" />
       <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" />
       <item itemvalue="TestNG.ExpectedException" />
       <item itemvalue="TestNG.DependsOnMethodTest.test2" />
       <item itemvalue="TestNG.DependsOnMethodTest.test1" />
+      <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" />
         <item itemvalue="TestNG.DependsOnMethodTest.test2" />
         <item itemvalue="TestNG.DependsOnMethodTest.test1" />
         <item itemvalue="TestNG.ExpectedException" />
         <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" />
-        <item itemvalue="TestNG.GroupsMethodClass" />
       </list>
     </recent_temporary>
   </component>
@@ -352,20 +383,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593247841527</updated>
-      <workItem from="1593247851961" duration="14391000" />
+      <workItem from="1593247851961" duration="15791000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GroupsClass_(1) - 2020.07.05 at 10h 39m 53s.xml">
-      <configuration name="GroupsClass (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_groupsClassTest_xml - 2020.07.05 at 11h 21m 28s.xml">
-      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_groupsClassTest_xml - 2020.07.05 at 11h 24m 16s.xml">
-      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_groupsClassTest_xml - 2020.07.05 at 11h 28m 05s.xml">
       <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/groupsClassTest.xml" configurationId="TestNG" />
     </history-entry>
@@ -387,9 +409,18 @@
     <history-entry file="DependsOnMethodTest_test2 - 2020.07.05 at 17h 49m 18s.xml">
       <configuration name="DependsOnMethodTest.test2" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_xmlParametersTest_xml - 2020.07.05 at 18h 06m 04s.xml">
+      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_xmlParametersTest_xml - 2020.07.05 at 18h 08m 35s.xml">
+      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_xmlParametersTest_xml - 2020.07.05 at 18h 10m 50s.xml">
+      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/xmlParametersTest.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14391000" />
+    <option name="totallyTimeSpent" value="15791000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -602,6 +633,25 @@
             <element signature="e#232#233#0" expanded="true" />
             <element signature="e#279#280#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/XmlParamterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shentian/src/main/resources/xmlParametersTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>
