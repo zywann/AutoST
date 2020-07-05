@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36423c4-47b6-408f-9126-672cb868e4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/multiThread/multiThreadClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shentian/src/main/resources/multiThead.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/TimeOutTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Shentian/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,27 +22,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
           <entry key="multiThread" value="1" />
           <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="XML" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="2805" />
+          <entry key="java" value="2968" />
           <entry key="xml" value="1375" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2805" />
+          <entry key="JAVA" value="2968" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="XML" value="1375" />
         </counts>
@@ -100,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="-133">
               <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -132,11 +130,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Shentian/src/main/resources/multiThead.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="205">
               <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/TimeOutTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -160,15 +167,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
               <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/groups/GroupsClass2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -211,6 +209,7 @@
         <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/multiThread/multiThreadClass.java" />
         <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/BasicAnnotation.java" />
         <option value="$PROJECT_DIR$/Shentian/src/main/resources/multiThead.xml" />
+        <option value="$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/TimeOutTest.java" />
       </list>
     </option>
   </component>
@@ -307,7 +306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593955119557" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593958030226" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -326,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml">
+  <component name="RunManager" selected="TestNG.TimeOutTest">
     <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Shentian" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Shentian/src/main/resources/multiThead.xml" />
@@ -353,40 +352,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProviderParamterTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Shentian" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testng.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.paramter.DataProviderParamterTest" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataProviderParamterTest.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Shentian" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.course.testng.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.course.testng.paramter" />
-      <option name="MAIN_CLASS_NAME" value="com.course.testng.paramter.DataProviderParamterTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DataProviderParamterTest.test2" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Shentian" />
       <extension name="coverage">
@@ -405,20 +370,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeOutTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Shentian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.TimeOutTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest.timeOutFilfailed" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Shentian" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.TimeOutTest" />
+      <option name="METHOD_NAME" value="timeOutFilfailed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="TestNG.DataProviderParamterTest" />
-      <item itemvalue="TestNG.DataProviderParamterTest.test1" />
       <item itemvalue="TestNG.DataProviderParamterTest.test2" />
       <item itemvalue="TestNG.DataProviderParamterTest (1)" />
       <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" />
+      <item itemvalue="TestNG.TimeOutTest.timeOutFilfailed" />
+      <item itemvalue="TestNG.TimeOutTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.TimeOutTest.timeOutFilfailed" />
         <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" />
         <item itemvalue="TestNG.DataProviderParamterTest (1)" />
         <item itemvalue="TestNG.DataProviderParamterTest.test2" />
-        <item itemvalue="TestNG.DataProviderParamterTest.test1" />
-        <item itemvalue="TestNG.DataProviderParamterTest" />
       </list>
     </recent_temporary>
   </component>
@@ -432,17 +431,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593247841527</updated>
-      <workItem from="1593247851961" duration="21589000" />
+      <workItem from="1593247851961" duration="22511000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataProviderParamterTest_(1) - 2020.07.05 at 18h 54m 17s.xml">
-      <configuration name="DataProviderParamterTest (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_multiThead_xml - 2020.07.05 at 21h 05m 50s.xml">
-      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_multiThead_xml - 2020.07.05 at 21h 09m 05s.xml">
       <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" configurationId="TestNG" />
     </history-entry>
@@ -467,9 +460,15 @@
     <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_multiThead_xml - 2020.07.05 at 21h 15m 58s.xml">
       <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TimeOutTest_timeOutFilfailed - 2020.07.05 at 22h 05m 51s.xml">
+      <configuration name="TimeOutTest.timeOutFilfailed" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TimeOutTest - 2020.07.05 at 22h 06m 06s.xml">
+      <configuration name="TimeOutTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21589000" />
+    <option name="totallyTimeSpent" value="22511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -489,7 +488,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3590164" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.52459013" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -682,41 +681,10 @@
     <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/multiThread">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../../Java/jdk1.8.0_11/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/multiThread/multiThreadClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,6 +704,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/multiThread/multiThreadClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shentian/src/main/java/com/course/testng/TimeOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
