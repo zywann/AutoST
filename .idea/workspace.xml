@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36423c4-47b6-408f-9126-672cb868e4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChapterHttpclient/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MocoFrame/httpclientGetRequest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MocoFrame/httpclientPostRequest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/demo/HttpclientDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Shentian/target/" />
     <ignored path="$PROJECT_DIR$/chapter6/target/" />
@@ -61,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="4246" />
+          <entry key="java" value="4499" />
           <entry key="json" value="2772" />
           <entry key="properties" value="145" />
           <entry key="txt" value="216" />
@@ -70,7 +65,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4246" />
+          <entry key="JAVA" value="4499" />
           <entry key="JSON" value="2406" />
           <entry key="PLAIN_TEXT" value="601" />
           <entry key="Properties" value="145" />
@@ -85,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="87" />
+              <caret line="3" column="28" selection-start-line="3" selection-end-line="3" selection-end-column="87" />
             </state>
           </provider>
         </entry>
@@ -93,8 +88,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ChapterHttpclient/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="204">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -111,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="226">
+              <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MocoFrame/httpclientGetRequest.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
@@ -216,9 +211,9 @@
         <option value="$PROJECT_DIR$/ChapterHttpclient/pom.xml" />
         <option value="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java" />
         <option value="$PROJECT_DIR$/ChapterHttpclient/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java" />
         <option value="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" />
         <option value="$PROJECT_DIR$/MocoFrame/httpclientGetRequest.json" />
+        <option value="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java" />
       </list>
     </option>
   </component>
@@ -266,64 +261,6 @@
             <path>
               <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="cookies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="httpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
               <item name="MocoFrame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -337,7 +274,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Program Files/Git/workspase/blmt/AutoST/MocoFrame/Moco基本操作说明.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594133036691" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594135733991" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -474,14 +411,11 @@
       <updated>1593247841527</updated>
       <workItem from="1593247851961" duration="34219000" />
       <workItem from="1594034745520" duration="6353000" />
-      <workItem from="1594088138688" duration="23258000" />
+      <workItem from="1594088138688" duration="25807000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="D__Program_Files_Git_workspase_blmt_AutoST_Shentian_src_main_resources_multiThead_xml - 2020.07.05 at 21h 15m 58s.xml">
-      <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TimeOutTest_timeOutFilfailed - 2020.07.05 at 22h 05m 51s.xml">
       <configuration name="TimeOutTest.timeOutFilfailed" configurationId="TestNG" />
     </history-entry>
@@ -509,9 +443,12 @@
     <history-entry file="HttpclientGetCookies_getCookies - 2020.07.07 at 22h 42m 45s.xml">
       <configuration name="HttpclientGetCookies.getCookies" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="HttpclientGetCookies_getCookies - 2020.07.07 at 23h 23m 39s.xml">
+      <configuration name="HttpclientGetCookies.getCookies" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63830000" />
+    <option name="totallyTimeSpent" value="66379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -528,8 +465,8 @@
       <window_info anchor="bottom" id="Alibaba Cloud View" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.46885246" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38688526" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -824,13 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -848,23 +778,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/demo/HttpclientDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -879,20 +792,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java">
+    <entry file="file://$PROJECT_DIR$/MocoFrame/httpclientGetRequest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/demo/HttpclientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MocoFrame/httpclientGetRequest.json">
+    <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-end-line="3" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/cookies/HttpclientGetCookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="48" column="8" selection-start-line="48" selection-start-column="8" selection-end-line="48" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
