@@ -9,9 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>Chapter5</module>
-        <module>Chapter6</module>
-        <module>Moco</module>
+        <module>ChapterTestNG</module>
+        <module>ChapterExtendReport</module>
+        <module>ChapterHttpclient</module>
     </modules>
 
 </project>

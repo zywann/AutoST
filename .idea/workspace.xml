@@ -2,16 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36423c4-47b6-408f-9126-672cb868e4c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MocoFrame/startupRedirect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/DependsOnMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/DependsOnMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/ExpectedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/ExpectedException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/IgnoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/IgnoreTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/TimeOutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/TimeOutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsMethodClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsMethodClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/multiThread/multiThreadClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/multiThread/multiThreadClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/XmlParamterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/paramter/XmlParamterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/PayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/PayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/SuiteConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/groupsClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/resources/groupsClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/multiThead.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/resources/multiThead.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/resources/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/xmlParametersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/src/main/resources/xmlParametersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/BasicAnnotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/DependsOnMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/DependsOnMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/ExpectedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/ExpectedException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/IgnoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/IgnoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/TimeOutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/TimeOutTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/groups/GroupsClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/groups/GroupsClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/groups/GroupsClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/groups/GroupsMethodClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/groups/GroupsMethodClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/multiThread/multiThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/multiThread/multiThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/paramter/DataProviderParamterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/paramter/DataProviderParamterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/paramter/XmlParamterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/paramter/XmlParamterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/suite/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/PayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/suite/PayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suite/SuiteConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/com/course/testng/suite/SuiteConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/groupsClassTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/groupsClassTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/multiThead.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/multiThead.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/xmlParametersTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterTestNG/target/classes/xmlParametersTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/Chapter6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/ChapterExtendReport.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/ExtendTestNGIReporterListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/src/main/java/com/chapterSix/extend/ExtendTestNGIReporterListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/extendClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/src/main/java/com/chapterSix/extend/extendClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/src/main/resources/testngExtend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/src/main/resources/testngExtend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/chapterSix/extend/ExtendTestNGIReporterListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/target/classes/com/chapterSix/extend/ExtendTestNGIReporterListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/chapterSix/extend/ExtendTestNGIReporterListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/target/classes/com/chapterSix/extend/ExtendTestNGIReporterListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/com/chapterSix/extend/extendClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/target/classes/com/chapterSix/extend/extendClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/target/classes/testngExtend.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/target/classes/testngExtend.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterExtendReport/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moco/Moco.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterHttpclient/ChapterHttpclient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Moco/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ChapterHttpclient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Shentian/target/" />
     <ignored path="$PROJECT_DIR$/chapter6/target/" />
     <ignored path="$PROJECT_DIR$/Chapter5/target/" />
     <ignored path="$PROJECT_DIR$/moco/target/" />
+    <ignored path="$PROJECT_DIR$/ChapterHttpclient/target/" />
+    <ignored path="$PROJECT_DIR$/ChapterExtendReport/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,40 +89,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="34" />
+          <entry key="java" value="35" />
           <entry key="json" value="8" />
           <entry key="multiThread" value="1" />
           <entry key="startGet" value="1" />
           <entry key="startPost" value="1" />
           <entry key="txt" value="2" />
-          <entry key="xml" value="23" />
+          <entry key="xml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="34" />
+          <entry key="JAVA" value="35" />
           <entry key="JSON" value="8" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="24" />
+          <entry key="XML" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="3257" />
+          <entry key="java" value="3634" />
           <entry key="json" value="2502" />
           <entry key="txt" value="196" />
-          <entry key="xml" value="1752" />
+          <entry key="xml" value="1767" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3257" />
+          <entry key="JAVA" value="3634" />
           <entry key="JSON" value="2136" />
           <entry key="PLAIN_TEXT" value="581" />
-          <entry key="XML" value="1752" />
+          <entry key="XML" value="1767" />
         </counts>
       </usages-collector>
     </session>
@@ -72,55 +132,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
+        <entry file="file://$PROJECT_DIR$/ChapterHttpclient/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MocoFrame/mocoStartup.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/testngExtend.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="238">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MocoFrame/startupRedirect.json">
+        <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="455">
+              <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,7 +198,6 @@
         <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/ExtendTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/extendClass.java" />
         <option value="$PROJECT_DIR$/moco/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/MocoFrame/startupGet.json" />
         <option value="$PROJECT_DIR$/MocoFrame/startGet" />
         <option value="$PROJECT_DIR$/MocoFrame/mocoStartup.json" />
@@ -182,6 +208,11 @@
         <option value="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" />
         <option value="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" />
         <option value="$PROJECT_DIR$/MocoFrame/startupRedirect.json" />
+        <option value="$PROJECT_DIR$/ChapterTestNG/pom.xml" />
+        <option value="$PROJECT_DIR$/ChapterExtendReport/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ChapterHttpclient/pom.xml" />
+        <option value="$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java" />
       </list>
     </option>
   </component>
@@ -190,6 +221,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
@@ -217,7 +255,28 @@
             <path>
               <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoST" type="462c0819:PsiDirectoryNode" />
-              <item name="MocoFrame" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoST" type="462c0819:PsiDirectoryNode" />
+              <item name="ChapterHttpclient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,7 +289,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Program Files/Git/workspase/blmt/AutoST/MocoFrame/Moco基本操作说明.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594105889650" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594125967340" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -256,9 +315,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Chapter6/src/main/resources/testngExtend.xml">
+  <component name="RunManager" selected="TestNG.HttpclientDemo.test">
     <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Chapter6/src/main/resources/testngExtend.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter6" />
+      <module name="ChapterExtendReport" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testngExtend.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
@@ -267,18 +326,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Shentian/src/main/resources/multiThead.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GroupsMethodClass" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+      <module name="ChapterTestNG" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.course.testng.groups.*" />
@@ -293,8 +342,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HttpclientDemo.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ChapterHttpclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.HttpclientDemo" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TimeOutTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+      <module name="ChapterTestNG" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.course.testng.*" />
@@ -310,7 +377,7 @@
       </method>
     </configuration>
     <configuration name="TimeOutTest.timeOutFilfailed" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter5" />
+      <module name="ChapterTestNG" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.course.testng.*" />
@@ -328,19 +395,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" />
       <item itemvalue="TestNG.TimeOutTest.timeOutFilfailed" />
       <item itemvalue="TestNG.TimeOutTest" />
       <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Chapter6/src/main/resources/testngExtend.xml" />
       <item itemvalue="TestNG.GroupsMethodClass" />
+      <item itemvalue="TestNG.HttpclientDemo.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HttpclientDemo.test" />
         <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Chapter6/src/main/resources/testngExtend.xml" />
         <item itemvalue="TestNG.GroupsMethodClass" />
         <item itemvalue="TestNG.TimeOutTest" />
         <item itemvalue="TestNG.TimeOutTest.timeOutFilfailed" />
-        <item itemvalue="TestNG.D:/Program Files/Git/workspase/blmt/AutoST/Shentian/src/main/resources/multiThead.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +426,7 @@
       <updated>1593247841527</updated>
       <workItem from="1593247851961" duration="34219000" />
       <workItem from="1594034745520" duration="6353000" />
-      <workItem from="1594088138688" duration="11661000" />
+      <workItem from="1594088138688" duration="18184000" />
     </task>
     <servers />
   </component>
@@ -396,13 +463,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52233000" />
+    <option name="totallyTimeSpent" value="58756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Alibaba Cloud Explorer" />
+      <window_info id="Alibaba Cloud Explorer" weight="0.32980332" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
@@ -420,11 +487,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32786885" />
       <window_info anchor="right" id="Alibaba ROS Templates" />
-      <window_info anchor="right" id="Alibaba Function Compute" />
+      <window_info anchor="right" id="Alibaba Function Compute" weight="0.32980332" />
       <window_info anchor="right" id="Alibaba Log Console" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -436,6 +503,41 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Alibaba Cloud Explorer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25037822" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.46885246" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32786885" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="0" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="1" />
+      <window_info anchor="right" id="Alibaba Log Console" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -444,21 +546,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/IgnoreTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/IgnoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
           <caret line="19" column="17" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/ExpectedException.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/ExpectedException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/multiThread">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/multiThread">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$PROJECT_DIR$/../../../../Java/jdk1.8.0_11/src.zip!/java/lang/Thread.java">
@@ -468,52 +570,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/multiThread/multiThreadClass.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/multiThread/multiThreadClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/TimeOutTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/TimeOutTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/BasicAnnotation.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/BasicAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/Chapter5.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Moco/pom.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupGet.json">
@@ -533,91 +611,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/multiThead.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/resources/multiThead.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="11" lean-forward="true" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/paramter/DataProviderParamterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/SuiteConfig.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/SuiteConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/suite.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/resources/suite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/LoginTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/suite/PayTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/suite/PayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass3.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/groupsClassTest.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/resources/groupsClassTest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/DependsOnMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/DependsOnMethodTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass1.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsClass2.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsClass2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsMethodClass.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/groups/GroupsMethodClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/paramter/XmlParamterTest.java">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/java/com/course/testng/paramter/XmlParamterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142">
           <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
@@ -628,38 +706,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter5/src/main/resources/xmlParametersTest.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/src/main/resources/xmlParametersTest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="69" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/extendClass.java">
+    <entry file="file://$PROJECT_DIR$/ChapterExtendReport/src/main/java/com/chapterSix/extend/extendClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/java/com/chapterSix/extend/ExtendTestNGIReporterListener.java">
+    <entry file="file://$PROJECT_DIR$/ChapterExtendReport/src/main/java/com/chapterSix/extend/ExtendTestNGIReporterListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-442">
           <caret line="116" column="41" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/testngExtend.xml">
+    <entry file="file://$PROJECT_DIR$/ChapterExtendReport/src/main/resources/testngExtend.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/mocoStartup.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -673,21 +751,66 @@
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupRedirect.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="237">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterExtendReport/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterTestNG/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.0.2/httpclient-4.0.2.jar!/org/apache/http/impl/client/DefaultHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChapterHttpclient/src/main/java/com/course/httpclient/HttpclientDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

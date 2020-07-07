@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AutoST.iml" filepath="$PROJECT_DIR$/.idea/AutoST.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Chapter6/Chapter6.iml" filepath="$PROJECT_DIR$/Chapter6/Chapter6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Moco/Moco.iml" filepath="$PROJECT_DIR$/Moco/Moco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterExtendReport/ChapterExtendReport.iml" filepath="$PROJECT_DIR$/ChapterExtendReport/ChapterExtendReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterHttpclient/ChapterHttpclient.iml" filepath="$PROJECT_DIR$/ChapterHttpclient/ChapterHttpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml" filepath="$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml" />
     </modules>
   </component>
 </project>
