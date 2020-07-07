@@ -1,0 +1,18 @@
+[
+  {
+    "description":"会返回cookies信息的get请求",
+    "request":{
+      "uri":"/get/cookies",
+      "method":"get"
+    },
+    "response":{
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      },
+      "cookies":{
+        "cookies":"true-123456"
+      },
+      "text":"响应成功！"
+    }
+  }
+]
