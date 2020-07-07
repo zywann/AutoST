@@ -15,20 +15,20 @@ public class GroupsMethodClass {
 
     @Test(groups = "server")
     public void test1(){
-        System.out.println("这是测试用例111");
+        System.out.println("这是服务端测试用例111");
     }
     @Test(groups = "server")
     public void test2(){
-        System.out.println("这是测试用例222");
+        System.out.println("这是服务端测试用例222");
     }
 
     @Test(groups = "client")
     public void test3(){
-        System.out.println("这是测试用例111");
+        System.out.println("这是用户端测试用例111");
     }
     @Test(groups = "client")
     public void test4(){
-        System.out.println("这是测试用例222");
+        System.out.println("这是用户端测试用例222");
     }
 
     @BeforeGroups("server")

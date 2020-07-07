@@ -40,6 +40,32 @@
         "status":"1"
       }
     }
+  },
+  {
+    "description":"这是带headers的post请求",
+    "request":{
+      "uri":"/post/with/headers",
+      "method":"post",
+      "headers":{
+        "contend-type":"application/json"
+      },
+      "cookies":{
+        "cookies":"cookies123456"
+      },
+      "json":{
+        "name":"zhangsan",
+        "age":"20"
+      }
+    },
+    "response":{
+      "headers":{
+        "Contend-Type":"text/htmo;charset=gbk"
+      },
+      "json":{
+        "status":"1",
+        "zhangsan":"登录成功！"
+      }
+    }
   }
 
 ]
