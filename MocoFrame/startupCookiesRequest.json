@@ -1,0 +1,45 @@
+[
+  {
+    "description":"带cookies的get请求",
+    "request":{
+      "uri":"/get/with/cookies",
+      "method":"get",
+      "cookies":{
+        "cookies":"cookies123456"
+      }
+    },
+    "response":{
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      },
+      "json":{
+        "张三":"登录成功",
+        "status":"1"
+      }
+    }
+  },
+  {
+    "description":"这是带参数带cookies的post请求",
+    "request":{
+      "uri":"/get/with/post/cookies",
+      "method":"post",
+      "cookies":{
+        "cookies":"cookies123456"
+      },
+      "json":{
+        "name":"zhangsan",
+        "age":"19"
+      }
+    },
+    "response":{
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      },
+      "json":{
+        "zhangsan":"登录成功",
+        "status":"1"
+      }
+    }
+  }
+
+]
