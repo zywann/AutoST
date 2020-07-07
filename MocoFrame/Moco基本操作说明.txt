@@ -1,7 +1,7 @@
 启用命令格式： java -jar -Dfile.encoding=UTF-8 ./moco-runner-0.11.0-standalone.jar 协议类型 -p 端口号 -c json配置文件
 json配置文件 ：如果跟moco jar包不是同一路径，需要带上路径
 
-java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startupCookiesRequest.json
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startupRedirect.json
 
 在response 增加代码，解决浏览器访问中文乱码
 "headers":{

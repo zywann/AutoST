@@ -1,0 +1,32 @@
+[
+  {
+    "description":"这是重定向get请求",
+    "request":{
+      "uri":"/get/redirect",
+      "method":"get"
+    },
+    "redirectTo":"http://www.baidu.com"
+  },
+  {
+    "description":"这是本地需要重定向到的get请求",
+    "request":{
+      "uri":"/get/redirect/success",
+      "method":"get"
+    },
+    "response":{
+      "headers":{
+        "Contend-Type":"text/html;charset=gbk"
+      },
+      "text":"重定向成功了！"
+    }
+  },
+  {
+    "description":"这是本地需要重定向到的get请求",
+    "request":{
+      "uri":"/get/redirect/new",
+      "method":"get"
+    },
+    "redirectTo":"/get/redirect/success"
+  }
+
+]

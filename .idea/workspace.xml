@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c36423c4-47b6-408f-9126-672cb868e4c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsMethodClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsMethodClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter6/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MocoFrame/startupRedirect.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Shentian/target/" />
@@ -31,11 +33,11 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="34" />
-          <entry key="json" value="5" />
+          <entry key="json" value="8" />
           <entry key="multiThread" value="1" />
           <entry key="startGet" value="1" />
           <entry key="startPost" value="1" />
-          <entry key="txt" value="1" />
+          <entry key="txt" value="2" />
           <entry key="xml" value="23" />
         </counts>
       </usages-collector>
@@ -43,8 +45,8 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="34" />
-          <entry key="JSON" value="5" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="JSON" value="8" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="24" />
         </counts>
       </usages-collector>
@@ -52,16 +54,16 @@
         <counts>
           <entry key="dummy" value="19" />
           <entry key="java" value="3257" />
-          <entry key="json" value="2099" />
-          <entry key="txt" value="174" />
+          <entry key="json" value="2502" />
+          <entry key="txt" value="196" />
           <entry key="xml" value="1752" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="3257" />
-          <entry key="JSON" value="1733" />
-          <entry key="PLAIN_TEXT" value="559" />
+          <entry key="JSON" value="2136" />
+          <entry key="PLAIN_TEXT" value="581" />
           <entry key="XML" value="1752" />
         </counts>
       </usages-collector>
@@ -69,6 +71,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MocoFrame/mocoStartup.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter6/src/main/resources/testngExtend.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,11 +98,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+            <state relative-caret-position="50">
+              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MocoFrame/startupRedirect.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -139,9 +177,11 @@
         <option value="$PROJECT_DIR$/MocoFrame/mocoStartup.json" />
         <option value="$PROJECT_DIR$/MocoFrame/startGet.json" />
         <option value="$PROJECT_DIR$/MocoFrame/startPost.json" />
-        <option value="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" />
         <option value="$PROJECT_DIR$/Chapter5/src/main/java/com/course/testng/groups/GroupsMethodClass.java" />
+        <option value="$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json" />
         <option value="$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json" />
+        <option value="$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt" />
+        <option value="$PROJECT_DIR$/MocoFrame/startupRedirect.json" />
       </list>
     </option>
   </component>
@@ -190,7 +230,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Program Files/Git/workspase/blmt/AutoST/MocoFrame/Moco基本操作说明.txt" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594104140652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594105889650" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -319,7 +359,7 @@
       <updated>1593247841527</updated>
       <workItem from="1593247851961" duration="34219000" />
       <workItem from="1594034745520" duration="6353000" />
-      <workItem from="1594088138688" duration="9879000" />
+      <workItem from="1594088138688" duration="11661000" />
     </task>
     <servers />
   </component>
@@ -356,7 +396,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50451000" />
+    <option name="totallyTimeSpent" value="52233000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -373,14 +413,14 @@
       <window_info anchor="bottom" id="Alibaba Cloud View" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46885246" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46885246" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32786885" />
       <window_info anchor="right" id="Alibaba ROS Templates" />
@@ -479,13 +519,6 @@
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupGet.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MocoFrame/mocoStartup.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startPost.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -497,13 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="22" column="7" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -630,10 +656,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MocoFrame/mocoStartup.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MocoFrame/Moco基本操作说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MocoFrame/startupHeadersRequest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MocoFrame/startupCookiesRequest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="56" column="18" lean-forward="true" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        <state relative-caret-position="50">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MocoFrame/startupRedirect.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
