@@ -17,9 +17,8 @@ import java.util.ResourceBundle;
 public class HttpclientGetCookies {
 
     private String url;
-    private String uri;
     private ResourceBundle bundle;
-
+    private CookieStore store;
     /**
      * 执行用例前获取需要的 服务器及访问地址
      */
@@ -29,16 +28,16 @@ public class HttpclientGetCookies {
         bundle = ResourceBundle.getBundle("application");
         // 获取文件中的属性 - 服务器
         url = bundle.getString("test.url");
-        // 获取文件中的属性 - 访问地址
-        uri = bundle.getString("httpclientGetRequest.uri");
     }
 
 
     @Test
     public void getCookies() throws IOException {
         String result;
+        // 获取文件中的属性 - 访问地址
+        String uri = bundle.getString("httpclientGetRequest.uri");
         // 获取服务器访问地址 - 对服务器、访问地址进行拼接并传值
-        HttpGet get = new HttpGet(this.url+this.uri);
+        HttpGet get = new HttpGet(this.url+uri);
         // 执行get方法
         HttpClient client = new DefaultHttpClient();
         HttpResponse response = client.execute(get);
@@ -48,8 +47,9 @@ public class HttpclientGetCookies {
 
 
         // 获取 cookies
-        //
-        CookieStore store =((DefaultHttpClient) client).getCookieStore();
+        // 创建获取cookies的对象
+        this.store =((DefaultHttpClient) client).getCookieStore();
+        // 获取响应cookies
         List<Cookie> cookies = store.getCookies();
         for (Cookie cookie: cookies){
             String name = cookie.getName();
@@ -57,4 +57,28 @@ public class HttpclientGetCookies {
             System.out.println("cookies name = "+name+" cookies value = "+value);
         }
     }
+
+    @Test(dependsOnMethods = {"getCookies"})
+    public void getWithCookies() throws IOException {
+        String result;
+        //获取get请求moco属性
+        String uri = bundle.getString("test.get.with.cookies");
+        //获取访问地址
+        HttpGet get = new HttpGet(this.url+uri);
+        //创建client对象
+        HttpClient client = new DefaultHttpClient();
+        //设置cookies信息
+        ((DefaultHttpClient) client).setCookieStore(this.store);
+        //执行get请求方法
+        HttpResponse response = client.execute(get);
+
+        //获取响应的状态码
+        int status = response.getStatusLine().getStatusCode();
+        System.out.println("statusCode = " + status);
+        if (status == 200){
+            result = EntityUtils.toString(response.getEntity(),"utf-8");
+            System.out.println(result);
+        }
+    }
+
 }

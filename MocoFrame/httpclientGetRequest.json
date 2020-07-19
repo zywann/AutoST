@@ -14,5 +14,21 @@
       },
       "text":"响应成功！"
     }
+  },
+  {
+    "description":"带cookies的get请求",
+    "request":{
+      "uri":"/get/with/cookies",
+      "method":"get",
+      "cookies":{
+        "cookies":"true-123456"
+      }
+    },
+    "response":{
+      "headers":{
+        "Contend-Type":"text/html;charset=gbk"
+      },
+      "text":"获得cookies并传值成功"
+    }
   }
 ]
