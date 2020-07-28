@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ChapterExtendReport/ChapterExtendReport.iml" filepath="$PROJECT_DIR$/ChapterExtendReport/ChapterExtendReport.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChapterHttpclient/ChapterHttpclient.iml" filepath="$PROJECT_DIR$/ChapterHttpclient/ChapterHttpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml" filepath="$PROJECT_DIR$/ChapterTestNG/ChapterTestNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBatisUse/MyBatisUse.iml" filepath="$PROJECT_DIR$/MyBatisUse/MyBatisUse.iml" />
     </modules>
   </component>
 </project>

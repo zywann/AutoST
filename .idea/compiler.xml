@@ -9,12 +9,14 @@
         <module name="ChapterExtendReport" />
         <module name="ChapterHttpclient" />
         <module name="ChapterTestNG" />
+        <module name="MyBatisUse" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ChapterExtendReport" target="6" />
       <module name="ChapterHttpclient" target="1.5" />
       <module name="ChapterTestNG" target="1.5" />
+      <module name="MyBatisUse" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
