@@ -7,6 +7,7 @@
     <groupId>com.course.code</groupId>
     <artifactId>ChapterExtendReport</artifactId>
     <version>1.0-SNAPSHOT</version>
+
     <build>
         <plugins>
             <plugin>

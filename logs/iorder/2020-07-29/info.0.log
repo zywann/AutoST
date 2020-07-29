@@ -1,0 +1,18 @@
+[INFO ] 2020-07-29 00:29:18 [main] com.course.Application - Starting Application on PC-202004212207 with PID 8284 (D:\Program Files\Git\workspase\blmt\AutoST\MyBatisUse\target\classes started by Administrator in D:\Program Files\Git\workspase\blmt\AutoST)
+[INFO ] 2020-07-29 00:29:18 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-07-29 00:29:18 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+[INFO ] 2020-07-29 00:29:18 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+[INFO ] 2020-07-29 00:29:18 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-07-29 00:29:18 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+[INFO ] 2020-07-29 00:29:18 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-07-29 00:29:18 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2057 ms
+[INFO ] 2020-07-29 00:29:18 [main] o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 2020-07-29 15:12:15 [main] com.course.Application - Starting Application on PC-202004212207 with PID 15296 (D:\Program Files\Git\workspase\blmt\AutoST\MyBatisUse\target\classes started by Administrator in D:\Program Files\Git\workspase\blmt\AutoST)
+[INFO ] 2020-07-29 15:12:15 [main] com.course.Application - No active profile set, falling back to default profiles: default
+[INFO ] 2020-07-29 15:12:15 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+[INFO ] 2020-07-29 15:12:15 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+[INFO ] 2020-07-29 15:12:15 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-07-29 15:12:15 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.37]
+[INFO ] 2020-07-29 15:12:15 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-07-29 15:12:15 [main] o.s.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2055 ms
+[INFO ] 2020-07-29 15:12:15 [main] o.a.catalina.core.StandardService - Stopping service [Tomcat]
